@@ -9,5 +9,6 @@ permalink: /
 
 - [利用規約](/terms-of-service/)
 - [プライバシーポリシー](/privacy-policy/)
+- [サポート](/support/)
 
 お問い合わせ: support@kochubattle.app
